@@ -1,0 +1,22 @@
+
+.now-running-text {
+    font-size: 38px;
+    font-weight: bold;
+    background: linear-gradient(90deg, #ff0000, #ff6a00, #f7d914); 
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke: 2px rgb(245, 235, 235);
+    animation: blink-animation 1s steps(2, start) infinite;
+}
+
+
+
+
+
+@keyframes blink-animation {
+    to {
+        visibility: hidden;
+    }
+}
+
+

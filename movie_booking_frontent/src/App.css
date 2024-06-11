@@ -1,0 +1,21 @@
+
+body {
+  background-image: url(https://w0.peakpx.com/wallpaper/663/269/HD-wallpaper-movie-poster-poster-collage-movie-cg.jpg);
+}
+
+
+
+.container{
+  position: relative;
+  top: 140px;
+  left: 8%;
+  text-align: center;
+}
+
+.ptag{
+  background-color: rgba(255, 193, 7,0.8);
+}
+
+.aboutptag{
+  background-color: rgba(255, 255, 255, 0.7);
+}
